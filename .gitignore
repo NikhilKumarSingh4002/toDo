@@ -1,2 +1,4 @@
 node_modules/
 _MACOSX
+package.json
+package-lock.json
